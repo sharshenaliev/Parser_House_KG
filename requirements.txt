@@ -1,0 +1,9 @@
+ipywidgets
+datasets
+huggingface_hub
+pyarrow==15.0.2
+requests
+bs4
+pandas
+numpy
+tqdm
